@@ -3,8 +3,8 @@
 The name of the book is "Raywenderlich: Swift Apprentice"
 
 - [ ] [`Section I: Intro`]
-    - [ ] [`Chapter 1: Expressions, Variables & Constants?`]
-    - [ ] [`Chapter 2: Types & Operations `]
+    - [x] [`Chapter 1: Expressions, Variables & Constants?`]
+    - [x] [`Chapter 2: Types & Operations `]
     - [ ] [`Chapter 3: Basic Control Flow`]
     - [ ] [`Chapter 4: Advanced Control Flow`]
     - [ ] [`Chapter 5: Functions`]
